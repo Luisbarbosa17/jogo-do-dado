@@ -1,0 +1,31 @@
+body{
+    background: linear-gradient(to right, #a86ead,#813788,#831f91,#a8048df3)
+}
+
+.container {
+    text-align: center;
+}
+h1{
+    margin: 20px;
+    font-size: 7rem;
+    color: rgb(41, 204, 233);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.dado{
+    display: inline-block;
+    margin: 50px;
+}
+
+p{
+    font-weight: bolder;
+    font-family: 'russo one', sans-serif;
+    font-size: 2rem;
+    margin: 100px;
+    margin-top: 5px;
+    color: aqua;
+}
+
+img{
+    width: 300px;
+}
